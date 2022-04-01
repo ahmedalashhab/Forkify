@@ -1,4 +1,5 @@
 import * as model from './model.js';
+import { async } from 'regenerator-runtime
 import { MODAL_CLOSE_SEC } from './config.js';
 import RecipeView from './views/recipeView.js';
 import searchView from './views/searchView.js';
